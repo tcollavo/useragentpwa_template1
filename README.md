@@ -1,4 +1,4 @@
-# zuix-html-pwa
+# User Agent Progressive Web App template based on zuix-html-pwa template
 
 A Progressive Web App template with a responsive layout and mobile app look & feel.
 
